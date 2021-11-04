@@ -1,5 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 body{
-  background-color: black;
-
+  font-family: 'Dancing Script', cursive;
+  background: rgb(15,83,144);
+  background: linear-gradient(270deg, rgba(15,83,144,1) 27%, rgba(236,151,233,1) 75%);
 }
+
